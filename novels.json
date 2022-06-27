@@ -9,6 +9,8 @@
       "webLinks": {},
       "reprints": {},
       "isTranslation": "",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
       "original": {
         "name": {},
         "author": "",
@@ -16,7 +18,9 @@
         "publishingHouse": "",
         "year": "",
         "webLinks": {},
-        "reprints": {}
+        "reprints": {},
+        "coverImageLinks": {},
+        "authorImageLinks": {}
       }
     }
   ]
