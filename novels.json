@@ -1,0 +1,23 @@
+{
+  "novels": [
+    {
+      "name": "",
+      "author": {},
+      "language": "",
+      "publishingHouse": "",
+      "year": "",
+      "webLinks": {},
+      "reprints": {},
+      "isTranslation": "",
+      "original": {
+        "name": {},
+        "author": "",
+        "language": "",
+        "publishingHouse": "",
+        "year": "",
+        "webLinks": {},
+        "reprints": {}
+      }
+    }
+  ]
+}
