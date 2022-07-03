@@ -1,39 +1,44 @@
 {
-    "novels": [
-      {
+  "novels": [
+    {
+      "id": "",
+      "name": "",
+      "author": {},
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "",
+      "publishingHouse": "",
+      "publishDate": "",
+      "publishYear": "",
+      "webLinks": {},
+      "rePrints": {},
+      "isTranslation": "",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": {},
+      "tags": {},
+      "awards": {},
+      "otherAttributes": {},
+      "original": {
         "id": "",
         "name": "",
         "author": {},
+        "writtenDate": "",
+        "writtenYear": "",
         "language": "",
         "publishingHouse": "",
-        "publishDate":"",
+        "publishDate": "",
         "publishYear": "",
         "webLinks": {},
         "rePrints": {},
         "isTranslation": "",
         "coverImageLinks": {},
         "authorImageLinks": {},
-        "genre" : {},
-        "tags":{},      
-        "otherAttributes" : {},
-        "original": {
-          "id": "",
-          "name": "",
-          "author": {},
-          "language": "",
-          "publishingHouse": "",
-          "publishDate":"",
-          "publishYear": "",
-          "webLinks": {},
-          "rePrints": {},
-          "isTranslation": "",
-          "coverImageLinks": {},
-          "authorImageLinks": {},
-          "genre" : {},
-          "tags":{},
-          "otherAttributes" : {}        
-        }
+        "genre": {},
+        "tags": {},
+        "awards": {},
+        "otherAttributes": {}
       }
-    ]
-  }
-  
+    }
+  ]
+}

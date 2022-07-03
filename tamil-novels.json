@@ -1,0 +1,80 @@
+{
+  "novels": [
+    {
+      "id": "710c5503f008ef8b218fdc1dccf8d183147f80c2",
+      "name": "Vazhkai Oru Nadagam",
+      "author": {
+        "1": "Thulasi Jeyaraman"
+      },
+      "writtenDate": "",
+      "writtenYear": "1973",
+      "language": "Tamil",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1973",
+      "webLinks": {
+        "1": "https://www.jeyamohan.in/148444/",
+        "2": "https://ta.wikipedia.org/wiki/பன்னாலால்_பட்டேல்",
+        "3": "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
+        "4": "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
+      },
+      "rePrints": {},
+      "isTranslation": "Yes",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": {
+        "1": "Historical",
+        "2": "Realistic"
+      },
+      "tags": {
+        "1": "Gujarat",
+        "2": "Famine",
+        "3": "India",
+        "4": "Raju",
+        "5": "Kalu"
+      },
+      "awards": {},
+      "otherAttributes": {},
+      "original": {
+        "id": "5c52073ec02810c0a02f7b3a9f5a152dfc1dc311",
+        "name": "Manvi Ni Bhavai",
+        "author": {
+          "1": "Pannalal Patel"
+        },
+        "writtenDate": "",
+        "writtenYear": "1947",
+        "language": "",
+        "publishingHouse": "",
+        "publishDate": "",
+        "publishYear": "",
+        "webLinks": {
+          "1": "https://en.wikipedia.org/wiki/Manvini_Bhavai",
+          "2": "https://en.wikipedia.org/wiki/Pannalal_Patel",
+          "3": "https://indiannovelscollective.com/book/manvini-bhavai/"
+        },
+        "rePrints": {},
+        "isTranslation": "",
+        "coverImageLinks": {},
+        "authorImageLinks": {},
+        "genre": {
+          "1": "Historical",
+          "2": "Realistic"
+        },
+        "tags": {
+          "1": "Gujarat",
+          "2": "Famine",
+          "3": "India",
+          "4": "Raju",
+          "5": "Kalu"
+        },
+        "awards": {
+          "1": {
+            "name": "Jnanpith",
+            "Year": "1985"
+          }
+        },
+        "otherAttributes": {}
+      }
+    }
+  ]
+}
