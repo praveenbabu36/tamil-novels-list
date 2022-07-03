@@ -1,26 +1,37 @@
 {
   "novels": [
     {
+      "id": "",
       "name": "",
       "author": {},
       "language": "",
       "publishingHouse": "",
-      "year": "",
+      "publishDate":"",
+      "publishYear": "",
       "webLinks": {},
-      "reprints": {},
+      "rePrints": {},
       "isTranslation": "",
       "coverImageLinks": {},
       "authorImageLinks": {},
+      "genre" : {},
+      "tags":{},      
+      "otherAttributes" : {},
       "original": {
-        "name": {},
-        "author": "",
+        "id": "",
+        "name": "",
+        "author": {},
         "language": "",
         "publishingHouse": "",
-        "year": "",
+        "publishDate":"",
+        "publishYear": "",
         "webLinks": {},
-        "reprints": {},
+        "rePrints": {},
+        "isTranslation": "",
         "coverImageLinks": {},
-        "authorImageLinks": {}
+        "authorImageLinks": {},
+        "genre" : {},
+        "tags":{},
+        "otherAttributes" : {}        
       }
     }
   ]
