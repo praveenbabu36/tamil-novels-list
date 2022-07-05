@@ -1,0 +1,49 @@
+{
+  "novels": [
+    {
+      "id": "472748255901767306aca84c00ba3785a5a37184",
+      "name": "Manvi ni Bhavai",
+      "author": {
+        "1": "Pannalal Patel"
+      },
+      "writtenDate": "",
+      "writtenYear": "1947",
+      "language": "Gujarati",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1973",
+      "webLinks": {
+        "1": "https://en.wikipedia.org/wiki/Manvini_Bhavai",
+        "2": "https://en.wikipedia.org/wiki/Pannalal_Patel",
+        "3": "https://indiannovelscollective.com/book/manvini-bhavai/",
+        "4": "https://hrdc.gujaratuniversity.ac.in/Uploads/EJournalDetail/17/20/6.pdf"
+      },
+      "rePrints": {},
+      "isTranslation": "No",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": {
+        "1": "Historical",
+        "2": "Realistic"
+      },
+      "tags": {
+        "1": "Gujarat",
+        "2": "Famine",
+        "3": "India",
+        "4": "Raju",
+        "5": "Kalu"
+      },
+      "awards": {
+        "1": {
+          "name": "Jnanpith",
+          "Year": "1985"
+        }
+      },
+      "otherAttributes": {},
+      "original": {
+        "id": "",
+        "language": ""
+      }
+    }
+  ]
+}
