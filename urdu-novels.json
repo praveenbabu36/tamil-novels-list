@@ -1,0 +1,47 @@
+{
+  "novels": [
+    {
+      "id": "f4fdb7ada2f0ce84287617296c03bd7ec7f25299",
+      "name": "Aag Ka Darya",
+      "author": {
+        "1": "Qurratulain Hyder"
+      },
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "Urdu",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1959",
+      "webLinks": {
+        "1": "https://en.wikipedia.org/wiki/Aag_Ka_Darya",
+        "2": "https://en.wikipedia.org/wiki/Qurratulain_Hyder#Jn",
+        "3": "https://www.nytimes.com/2019/04/08/books/review/qurratulain-hyder-river-of-fire.html",
+        "4": "https://rajdhanicollege.ac.in/admin/ckeditor/ckfinder/userfiles/files/Partition%20Literature-%20Basti.pdf"
+      },
+      "rePrints": {},
+      "isTranslation": "No",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": {
+        "1": "Historical",
+        "2": "Realistic"
+      },
+      "tags": {
+        "1": "Urdu",
+        "2": "Gautama Neelambaran",
+        "3": "Kamaludeen",
+        "4": "Pataliputhram",
+        "5": "India",
+        "6": "Freedom",
+        "7": "Partition",
+        "8": "River"
+      },
+      "awards": {},
+      "otherAttributes": {},
+      "original": {
+        "id": "",
+        "language": ""
+      }
+    }
+  ]
+}

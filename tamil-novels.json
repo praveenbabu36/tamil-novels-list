@@ -37,7 +37,51 @@
       "otherAttributes": {},
       "original": {
         "id": "472748255901767306aca84c00ba3785a5a37184",
-        "language": "gujarati"
+        "language": "Gujarati",
+        "name": "Manvi ni Bhavai"
+      }
+    },
+    {
+      "id": "54860767b55cd2b31c47ae134ae12bfc18f0dbf2",
+      "name": "Agni Nathi",
+      "author": {
+        "1": "Sowri"
+      },
+      "writtenDate": "",
+      "writtenYear": "1971",
+      "language": "Tamil",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1973",
+      "webLinks": {
+        "1": "https://www.jeyamohan.in/197/",
+        "2": "https://en.wikipedia.org/wiki/Qurratulain_Hyder",
+        "3": "https://abedheen.wordpress.com/2012/12/20/nbt-novels22/"
+      },
+      "rePrints": {},
+      "isTranslation": "Yes",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": {
+        "1": "Historical",
+        "2": "Magical Realism"
+      },
+      "tags": {
+        "1": "Urdu",
+        "2": "Gautama Neelambaran",
+        "3": "Kamaludeen",
+        "4": "Pataliputhram",
+        "5": "India",
+        "6": "Freedom",
+        "7": "Partition",
+        "8": "River"
+      },
+      "awards": {},
+      "otherAttributes": {},
+      "original": {
+        "id": "f4fdb7ada2f0ce84287617296c03bd7ec7f25299",
+        "language": "Urdu",
+        "name": "Aag Ka Darya"
       }
     }
   ]
