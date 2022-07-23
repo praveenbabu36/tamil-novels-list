@@ -3,36 +3,35 @@
     {
       "id": "710c5503f008ef8b218fdc1dccf8d183147f80c2",
       "name": "Vazhkai Oru Nadagam",
-      "author": {
-        "1": "Thulasi Jeyaraman"
-      },
+      "author": ["Thulasi Jeyaraman"]
+      ,
       "writtenDate": "",
       "writtenYear": "1973",
       "language": "Tamil",
       "publishingHouse": "National Book Trust",
       "publishDate": "",
       "publishYear": "1973",
-      "webLinks": {
-        "1": "https://www.jeyamohan.in/148444/",
-        "2": "https://ta.wikipedia.org/wiki/பன்னாலால்_பட்டேல்",
-        "3": "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
-        "4": "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
-      },
+      "webLinks": [
+          "https://www.jeyamohan.in/148444/",
+          "https://ta.wikipedia.org/wiki/பன்னாலால்_பட்டேல்",
+          "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
+          "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
+      ],
       "rePrints": {},
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": {
-        "1": "Historical",
-        "2": "Realistic"
-      },
-      "tags": {
-        "1": "Gujarat",
-        "2": "Famine",
-        "3": "India",
-        "4": "Raju",
-        "5": "Kalu"
-      },
+      "genre": [
+          "Historical",
+          "Realistic"
+      ],
+      "tags": [
+        "Gujarat",
+        "Famine",
+        "India",
+        "Raju",
+        "Kalu"
+      ],
       "awards": {},
       "otherAttributes": {},
       "original": {
@@ -41,41 +40,42 @@
         "name": "Manvi ni Bhavai"
       }
     },
+
     {
       "id": "54860767b55cd2b31c47ae134ae12bfc18f0dbf2",
       "name": "Agni Nathi",
-      "author": {
-        "1": "Sowri"
-      },
+      "author": [
+        "Sowri"
+      ],
       "writtenDate": "",
       "writtenYear": "1971",
       "language": "Tamil",
       "publishingHouse": "National Book Trust",
       "publishDate": "",
       "publishYear": "1973",
-      "webLinks": {
-        "1": "https://www.jeyamohan.in/197/",
-        "2": "https://en.wikipedia.org/wiki/Qurratulain_Hyder",
-        "3": "https://abedheen.wordpress.com/2012/12/20/nbt-novels22/"
-      },
+      "webLinks": [
+        "https://www.jeyamohan.in/197/",
+        "https://en.wikipedia.org/wiki/Qurratulain_Hyder",
+        "https://abedheen.wordpress.com/2012/12/20/nbt-novels22/"
+      ],
       "rePrints": {},
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": {
-        "1": "Historical",
-        "2": "Magical Realism"
-      },
-      "tags": {
-        "1": "Urdu",
-        "2": "Gautama Neelambaran",
-        "3": "Kamaludeen",
-        "4": "Pataliputhram",
-        "5": "India",
-        "6": "Freedom",
-        "7": "Partition",
-        "8": "River"
-      },
+      "genre": [
+        "Historical",
+        "Magical Realism"
+      ],
+      "tags": [
+        "Urdu",
+        "Gautama Neelambaran",
+        "Kamaludeen",
+        "Pataliputhram",
+        "India",
+        "Freedom",
+        "Partition",
+        "River"
+      ],
       "awards": {},
       "otherAttributes": {},
       "original": {
