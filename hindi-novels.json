@@ -1,0 +1,37 @@
+{
+  "novels": [
+    {
+      "name": "Dhai Ghar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ",
+      "author": ["Giriraj Kishore"],
+      "writtenDate": "",
+      "writtenYear": "1990",
+      "language": "Hindi",
+      "publishingHouse": "",
+      "publishDate": "",
+      "publishYear": "",
+      "webLinks": [
+        "https://en.wikipedia.org/wiki/Giriraj_Kishore_(writer)",
+        "https://www.youtube.com/watch?v=b1NuVygbmlo"
+      ],
+      "rePrints": {},
+      "isTranslation": "No",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": ["Historical", "Realistic"],
+      "tags": [
+        "The Knight's Move",
+        "Rajput",
+        "Artamonov Business",
+        "India",
+        "Family Saga",
+        "British"
+      ],
+      "awards": {},
+      "otherAttributes": {},
+      "original": {
+        "id": "",
+        "language": ""
+      }
+    }
+  ]
+}

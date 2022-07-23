@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "name": "Jaya Somnath",
+      "author": ["Kanaiyalal Maneklal Munshi"],
+      "language": "Hindi",
+      "webLinks": [
+        "https://www.jeyamohan.in/194/",
+        "https://www.bhavans.info/bookstore/book-details.php?book_id=300"
+      ],
+      "tags": ["Rajput", "Somnath", "Gujarat"]
+    },
+    {
+      "name": "Moondru Thalaimuraigal",
+      "author": ["Na. Dharmarajan"],
+      "publishingHouse": "Sri Shenbaga Publishers",
+      "webLinks": [
+        "https://www.jeyamohan.in/194/",
+        "https://en.wikipedia.org/wiki/The_Artamonov_Business",
+        "https://www.dinamani.com/specials/nool-aragam/2021/nov/01/மூன்று-தலைமுறைகள்-3728125.html"
+      ],
+      "tags": ["Soviet Russia", "Family", ""],
+      "original": {
+        "name": "The Artamanov Business",
+        "language": "Russian"
+      }
+    }
+  ]
+}

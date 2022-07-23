@@ -1,11 +1,8 @@
 {
   "novels": [
     {
-      "id": "472748255901767306aca84c00ba3785a5a37184",
       "name": "Manvi ni Bhavai",
-      "author": [
-        "Pannalal Patel"
-      ],
+      "author": ["Pannalal Patel"],
       "writtenDate": "",
       "writtenYear": "1947",
       "language": "Gujarati",
@@ -22,17 +19,8 @@
       "isTranslation": "No",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": [
-        "Historical",
-        "Realistic"
-      ],
-      "tags": [
-        "Gujarat",
-        "Famine",
-        "India",
-        "Raju",
-        "Kalu"
-      ],
+      "genre": ["Historical", "Realistic"],
+      "tags": ["Gujarat", "Famine", "India", "Raju", "Kalu"],
       "awards": [
         {
           "name": "Jnanpith",

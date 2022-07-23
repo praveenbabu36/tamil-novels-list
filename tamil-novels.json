@@ -1,10 +1,8 @@
 {
   "novels": [
     {
-      "id": "710c5503f008ef8b218fdc1dccf8d183147f80c2",
       "name": "Vazhkai Oru Nadagam",
-      "author": ["Thulasi Jeyaraman"]
-      ,
+      "author": ["Thulasi Jeyaraman"],
       "writtenDate": "",
       "writtenYear": "1973",
       "language": "Tamil",
@@ -12,41 +10,28 @@
       "publishDate": "",
       "publishYear": "1973",
       "webLinks": [
-          "https://www.jeyamohan.in/148444/",
-          "https://ta.wikipedia.org/wiki/பன்னாலால்_பட்டேல்",
-          "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
-          "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
+        "https://www.jeyamohan.in/148444/",
+        "https://ta.wikipedia.org/wiki/பன்னாலால்_பட்டேல்",
+        "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
+        "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
       ],
       "rePrints": {},
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": [
-          "Historical",
-          "Realistic"
-      ],
-      "tags": [
-        "Gujarat",
-        "Famine",
-        "India",
-        "Raju",
-        "Kalu"
-      ],
+      "genre": ["Historical", "Realistic"],
+      "tags": ["Gujarat", "Famine", "India", "Raju", "Kalu"],
       "awards": {},
       "otherAttributes": {},
       "original": {
-        "id": "472748255901767306aca84c00ba3785a5a37184",
         "language": "Gujarati",
         "name": "Manvi ni Bhavai"
       }
     },
 
     {
-      "id": "54860767b55cd2b31c47ae134ae12bfc18f0dbf2",
       "name": "Agni Nathi",
-      "author": [
-        "Sowri"
-      ],
+      "author": ["Sowri"],
       "writtenDate": "",
       "writtenYear": "1971",
       "language": "Tamil",
@@ -62,10 +47,7 @@
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": [
-        "Historical",
-        "Magical Realism"
-      ],
+      "genre": ["Historical", "Magical Realism"],
       "tags": [
         "Urdu",
         "Gautama Neelambaran",
@@ -73,15 +55,52 @@
         "Pataliputhram",
         "India",
         "Freedom",
+        "British",
         "Partition",
         "River"
       ],
       "awards": {},
       "otherAttributes": {},
       "original": {
-        "id": "f4fdb7ada2f0ce84287617296c03bd7ec7f25299",
         "language": "Urdu",
         "name": "Aag Ka Darya"
+      }
+    },
+
+    {
+      "id": "",
+      "name": "Sathuranga Kuthiraigal",
+      "author": ["Mu. Gnanam"],
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "Tamil",
+      "publishingHouse": "Sahitya Academy",
+      "publishDate": "",
+      "publishYear": "2007",
+      "webLinks": [
+        "https://www.jeyamohan.in/194/",
+        "https://akazhonline.com/?p=3395",
+        "https://en.wikipedia.org/wiki/Giriraj_Kishore_(writer)"
+      ],
+      "rePrints": {},
+      "isTranslation": "",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": ["Historical", "Realistic"],
+      "tags": [
+        "The Knight's Move",
+        "Rajput",
+        "Artamonov Business",
+        "India",
+        "Family Saga",
+        "Feudalism",
+        "British"
+      ],
+      "awards": [{}],
+      "otherAttributes": {},
+      "original": {
+        "language": "Hindi",
+        "name": "Dhai Ghar"
       }
     }
   ]

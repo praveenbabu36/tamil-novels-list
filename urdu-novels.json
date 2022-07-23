@@ -1,31 +1,27 @@
 {
   "novels": [
     {
-      "id": "f4fdb7ada2f0ce84287617296c03bd7ec7f25299",
       "name": "Aag Ka Darya",
-      "author": [
-        "Qurratulain Hyder"
-      ],
+      "author": ["Qurratulain Hyder"],
       "writtenDate": "",
       "writtenYear": "",
       "language": "Urdu",
       "publishingHouse": "National Book Trust",
       "publishDate": "",
       "publishYear": "1959",
-      "webLinks" : [
+      "webLinks": [
         "https://en.wikipedia.org/wiki/Aag_Ka_Darya",
         "https://en.wikipedia.org/wiki/Qurratulain_Hyder#Jn",
         "https://www.nytimes.com/2019/04/08/books/review/qurratulain-hyder-river-of-fire.html",
-        "https://rajdhanicollege.ac.in/admin/ckeditor/ckfinder/userfiles/files/Partition%20Literature-%20Basti.pdf"
+        "https://rajdhanicollege.ac.in/admin/ckeditor/ckfinder/userfiles/files/Partition%20Literature-%20Basti.pdf",
+        "https://www.youtube.com/watch?v=Lr4mDMxmv5k",
+        "https://www.youtube.com/watch?v=J3hCtzK6-DA"
       ],
       "rePrints": {},
       "isTranslation": "No",
       "coverImageLinks": {},
       "authorImageLinks": {},
-      "genre": [
-        "Historical",
-        "Realistic"
-      ],
+      "genre": ["Historical", "Realistic"],
       "tags": [
         "Urdu",
         "Gautama Neelambaran",
