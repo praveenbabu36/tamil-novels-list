@@ -15,14 +15,14 @@
         "https://ashvanthashmitha.blogspot.com/2019/09/1956.html",
         "https://abedheen.files.wordpress.com/2012/12/vazhkaioarnadagam.pdf"
       ],
-      "rePrints": {},
+      "rePrints": [],
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
       "genre": ["Historical", "Realistic"],
       "tags": ["Gujarat", "Famine", "India", "Raju", "Kalu"],
-      "awards": {},
-      "otherAttributes": {},
+      "awards": [],
+      "otherAttributes": [],
       "original": {
         "language": "Gujarati",
         "name": "Manvi ni Bhavai"
@@ -43,7 +43,7 @@
         "https://en.wikipedia.org/wiki/Qurratulain_Hyder",
         "https://abedheen.wordpress.com/2012/12/20/nbt-novels22/"
       ],
-      "rePrints": {},
+      "rePrints": [],
       "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
@@ -59,8 +59,8 @@
         "Partition",
         "River"
       ],
-      "awards": {},
-      "otherAttributes": {},
+      "awards": [],
+      "otherAttributes": [],
       "original": {
         "language": "Urdu",
         "name": "Aag Ka Darya"
@@ -82,8 +82,8 @@
         "https://akazhonline.com/?p=3395",
         "https://en.wikipedia.org/wiki/Giriraj_Kishore_(writer)"
       ],
-      "rePrints": {},
-      "isTranslation": "",
+      "rePrints": [],
+      "isTranslation": "Yes",
       "coverImageLinks": {},
       "authorImageLinks": {},
       "genre": ["Historical", "Realistic"],
@@ -96,11 +96,48 @@
         "Feudalism",
         "British"
       ],
-      "awards": [{}],
-      "otherAttributes": {},
+      "awards": [],
+      "otherAttributes": [],
       "original": {
         "language": "Hindi",
         "name": "Dhai Ghar"
+      }
+    },
+
+    {
+      "id": "",
+      "name": "Dharbari Raagam",
+      "author": ["Saraswathi Ramnath"],
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "Tamil",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1977",
+      "webLinks": [
+        "https://www.jeyamohan.in/188/",
+        "https://archive.org/details/DarbariRagamShukla/page/n3/mode/2up",
+        "https://ta.wikipedia.org/wiki/சிறீலால்_சுக்லா",
+        "https://solvanam.com/2013/09/07/ராக்-தர்பாரி/"
+      ],
+      "rePrints": ["1990"],
+      "isTranslation": "Yes",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": ["Satire", "Political"],
+      "tags": [
+        "Indian Society",
+        "Post Independence",
+        "Corruption",
+        "Politics",
+        "Government",
+        "Democracy"
+      ],
+      "awards": [],
+      "otherAttributes": [],
+      "original": {
+        "language": "Hindi",
+        "name": "Raag Darbari"
       }
     }
   ]

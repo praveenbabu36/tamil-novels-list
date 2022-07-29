@@ -1,7 +1,7 @@
 {
   "novels": [
     {
-      "name": "Dhai Ghar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ",
+      "name": "Dhai Ghar",
       "author": ["Giriraj Kishore"],
       "writtenDate": "",
       "writtenYear": "1990",
@@ -13,7 +13,7 @@
         "https://en.wikipedia.org/wiki/Giriraj_Kishore_(writer)",
         "https://www.youtube.com/watch?v=b1NuVygbmlo"
       ],
-      "rePrints": {},
+      "rePrints": [],
       "isTranslation": "No",
       "coverImageLinks": {},
       "authorImageLinks": {},
@@ -32,6 +32,61 @@
         "id": "",
         "language": ""
       }
+    },
+
+    {
+      "name": "Raag Darbari",
+      "author": ["Giriraj Kishore"],
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "Hindi",
+      "publishingHouse": "Rajkamal Prakashan",
+      "publishDate": "",
+      "publishYear": "1968",
+      "webLinks": [
+        "https://en.wikipedia.org/wiki/Raag_Darbari_(novel)",
+        "https://en.wikipedia.org/wiki/Shrilal_Shukla",
+        "https://www.newindianexpress.com/lifestyle/books/2012/sep/23/raag-darbari-the-chronicle-of-power-and-politics-retold-408698.html",
+        "https://www.amazon.com/Raag-Darbari-Shrilal-Shukla/dp/0143418890",
+        "https://rajkamalprakashan.com/rag-darbari.html",
+        "https://books.google.com/books?id=vRnapPI9LRkC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false"
+      ],
+      "rePrints": [],
+      "isTranslation": "No",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": ["Satire", "Political"],
+      "tags": [
+        "Indian Society",
+        "Post Independence",
+        "Corruption",
+        "Politics",
+        "Government",
+        "Democracy"
+      ],
+      "awards": [
+        {
+          "name": "Sahitya Academy",
+          "year": 1969
+        }
+      ],
+      "otherAttributes": [],
+      "original": {
+        "id": "",
+        "language": ""
+      },
+      "translations": [
+        {
+          "name": "Raag Darbari",
+          "author": "Gilian Wright",
+          "language": "english"
+        },
+        {
+          "name": "Dharbaari Raagam",
+          "author": "Saraswathi Ramnath",
+          "language": "tamil"
+        }
+      ]
     }
   ]
 }
