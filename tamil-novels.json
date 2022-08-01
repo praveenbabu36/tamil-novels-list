@@ -105,7 +105,6 @@
     },
 
     {
-      "id": "",
       "name": "Dharbari Raagam",
       "author": ["Saraswathi Ramnath"],
       "writtenDate": "",
@@ -138,6 +137,49 @@
       "original": {
         "language": "Hindi",
         "name": "Raag Darbari"
+      }
+    },
+
+    {
+      "name": "Chikaveera Rajendra",
+      "author": ["Hema Aanandhatheerthan"],
+      "writtenDate": "",
+      "writtenYear": "",
+      "language": "Tamil",
+      "publishingHouse": "National Book Trust",
+      "publishDate": "",
+      "publishYear": "1974",
+      "webLinks": [
+        "https://en.wikipedia.org/wiki/Chikka_Virarajendra",
+        "https://www.jeyamohan.in/190/",
+        "https://www.jeyamohan.in/163277/",
+        "https://ayyanaarv.blogspot.com/2014/12/1.html",
+        "https://saravanansarathy.blogspot.com/2016/08/blog-post.html",
+        "https://en.wikipedia.org/wiki/Masti_Venkatesha_Iyengar",
+        "https://ta.wikipedia.org/wiki/மாஸ்தி_வெங்கடேச_ஐயங்கார்",
+        "https://en.wikipedia.org/wiki/Pattole_Palome",
+        "https://en.wikipedia.org/wiki/Victoria_Gouramma"
+      ],
+      "rePrints": ["1990"],
+      "isTranslation": "Yes",
+      "coverImageLinks": {},
+      "authorImageLinks": {},
+      "genre": ["Realistic", "Historical"],
+      "tags": [
+        "coorg",
+        "Kodagu",
+        "Politics",
+        "princely state",
+        "Exile",
+        "Mysore",
+        "Victoria Gouramma"
+      ],
+      "awards": [],
+      "otherAttributes": [],
+      "original": {
+        "language": "Kannada",
+        "name": "Chikkaveera Rajendra",
+        "author" : "Maasti Venkatesa Iyengar"
       }
     }
   ]

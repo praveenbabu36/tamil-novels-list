@@ -1,0 +1,56 @@
+{
+    "novels": [
+      {
+        "name": "Chikkaveera Rajendra",
+        "author": ["Maasti Venkatesa Iyengar"],
+        "writtenDate": "",
+        "writtenYear": "",
+        "language": "Kannada",
+        "publishingHouse": "National Book Trust",
+        "publishDate": "",
+        "publishYear": "1956",
+        "webLinks": [
+          "https://en.wikipedia.org/wiki/Chikka_Virarajendra",
+          "https://www.jeyamohan.in/190/",
+          "https://www.jeyamohan.in/163277/",
+          "https://ayyanaarv.blogspot.com/2014/12/1.html",
+          "https://saravanansarathy.blogspot.com/2016/08/blog-post.html",
+          "https://en.wikipedia.org/wiki/Masti_Venkatesha_Iyengar",
+          "https://ta.wikipedia.org/wiki/மாஸ்தி_வெங்கடேச_ஐயங்கார்",
+          "https://en.wikipedia.org/wiki/Pattole_Palome",
+          "https://en.wikipedia.org/wiki/Victoria_Gouramma",
+          "https://www.youtube.com/watch?v=3tpGFdk03hY",
+          "https://www.youtube.com/watch?v=kcWCvXu7KyM",
+          "https://www.youtube.com/watch?v=N-G0aSuq6ng",
+          "https://www.youtube.com/watch?v=8NEve56tFT4"
+        ],
+        "rePrints": [],
+        "isTranslation": "No",
+        "coverImageLinks": {},
+        "authorImageLinks": {},
+        "genre": ["Historical", "Realistic"],
+        "tags": [        
+            "coorg",
+            "Kodagu",
+            "Politics",
+            "princely state",
+            "Exile",
+            "Mysore",
+            "Victoria Gouramma",
+            "Kodava"
+        ],
+        "awards": [
+          {
+            "name": "Jnanpith",
+            "Year": "1983"
+          }
+        ],
+        "otherAttributes": [],
+        "original": {
+          "id": "",
+          "language": ""
+        }
+      }
+    ]
+  }
+  
